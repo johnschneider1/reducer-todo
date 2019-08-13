@@ -1,0 +1,15 @@
+.App {
+  margin: 50px;
+  padding: 50px;
+  text-align: center;
+  background-color: #6a7f6f;
+  height: 95vh;
+  color: white;
+  border: 5px solid green;
+  box-shadow: 0 0 0 10px black;
+  border-radius: 25px;
+}
+
+.toggled {
+  text-decoration: line-through;
+}
